@@ -1,0 +1,27 @@
+{
+    "musicmod.music1": {
+      "sounds": [
+        "musicmod:music1"
+      ]
+    },
+    "musicmod.music2": {
+      "sounds": [
+        "musicmod:music2"
+      ]
+    },
+    "musicmod.music3": {
+      "sounds": [
+        "musicmod:music3"
+      ]
+    },
+    "musicmod.music4": {
+      "sounds": [
+        "musicmod:music4"
+      ]
+    },
+    "musicmod.music5": {
+      "sounds": [
+        "musicmod:music5"
+      ]
+    }
+  }

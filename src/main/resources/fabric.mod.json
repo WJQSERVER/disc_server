@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "musicmod",
+    "version": "${version}",
+    "name": "Music Mod",
+    "description": "A mod to play custom music records.",
+    "authors": ["Your Name"],
+    "contact": {
+      "sources": "https://github.com/yourname/musicmod"
+    },
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+      "main": [
+        "com.example.musicmod.MusicMod"
+      ]
+    },
+    "depends": {
+      "fabricloader": ">=0.14.6",
+      "fabric": "*",
+      "minecraft": "1.20.1"
+    }
+  }
